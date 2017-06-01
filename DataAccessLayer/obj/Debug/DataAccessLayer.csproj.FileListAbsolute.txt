@@ -1,0 +1,13 @@
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Projects\PersonalInfoDemoNTire\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Projects\PersonalInfoDemoNTire\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Projects\PersonalInfoDemoNTire\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

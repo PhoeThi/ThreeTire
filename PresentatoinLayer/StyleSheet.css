@@ -1,0 +1,63 @@
+﻿body {
+}
+table td
+        {
+            padding:3px;
+            width:150px;
+        }
+        
+        .groupBox
+        {
+            width:420px;
+            height:200px;
+            float:left;
+            margin-left:1px;
+            padding:5px;
+        }
+        .groupBox1
+        {
+            width:420px;
+            height:250px; 
+            float:left;
+            margin-left:1px;
+            padding:5px;
+        }
+      
+        .addressbox
+        {
+            width:850px;
+            height:200px;  
+            float:left;
+            margin-left:1px;
+            padding:10px;         
+        }
+        
+        /*.groupBox,.addresbox, .groupBox1
+        {
+            float:left;
+            margin-left:1px;
+            padding:10px;
+        }*/
+        .tdwidth td
+        {
+            width:200px;
+        }
+        .formTitle
+        {
+            width:100%;
+            height:20px;
+            /*background:#e2e2e2;*/
+            font:#f00;
+            text-align:center;
+            float:left;
+            color:green;
+        }
+        
+        .buttonGroup
+        {
+            width:800px;
+            height:20px;
+            float:left;
+            padding:20px;
+            flex-item-align:center;
+        }

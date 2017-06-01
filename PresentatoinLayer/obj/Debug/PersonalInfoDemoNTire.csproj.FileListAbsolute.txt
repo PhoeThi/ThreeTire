@@ -1,0 +1,37 @@
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\PersonalInfoDemoNTire.csprojResolveAssemblyReference.cache
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\PersonalInfoDemoNTire.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\PersonalInfoDemoNTire.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\bin\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\obj\Debug\PersonalInfoDemoNTire.csprojResolveAssemblyReference.cache
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\obj\Debug\PersonalInfoDemoNTire.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\WebApplication1\obj\Debug\PersonalInfoDemoNTire.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.csprojResolveAssemblyReference.cache
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\PersonalInfoDemoNTire.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\PersonalInfoDemoNTire.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.pdb
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\PersonalInfoDemoNTire.dll.config
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\PersonalInfoDemoNTire.dll
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\PersonalInfoDemoNTire.pdb
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\BusicLogicLayer.dll
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\DataAccessLayer.dll
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\BusicLogicLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\bin\DataAccessLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.csprojResolveAssemblyReference.cache
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.dll
+F:\Projects\PersonalInfoDemoNTire\PresentatoinLayer\obj\Debug\PersonalInfoDemoNTire.pdb

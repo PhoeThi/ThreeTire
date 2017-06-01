@@ -1,0 +1,21 @@
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\bin\Debug\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\bin\Debug\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\obj\Debug\BusicLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\obj\Debug\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\visual studio 2012\Projects\WebApplication1\BusicLogicLayer\obj\Debug\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\BusicLogicLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.dll
+C:\Users\solidplm1\Documents\Visual Studio 2012\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\BusicLogicLayer.dll
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\BusicLogicLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.csprojResolveAssemblyReference.cache
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.dll
+F:\Projects\PersonalInfoDemoNTire\BusicLogicLayer\obj\Debug\BusicLogicLayer.pdb
