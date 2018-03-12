@@ -11,7 +11,7 @@ namespace DataAccessLayer
 {
     public class DBConnection
     {
-        const string DBConnectionString = "Server=.;Database=PersonalInfoDemo;user id=sa;password=724964;Trusted_Connection=false;pooling=false;";
+        const string DBConnectionString = "Server=.;Database=PersonalInfoDemo;user id=sa;password=12345678;Trusted_Connection=false;pooling=false;";
 
         internal static DataTable GetDataTable(string CommandName, CommandType cmdType, SqlParameter[] param)
         {
